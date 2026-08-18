@@ -44,4 +44,4 @@ npm run build
 
 ## Projeto online
 
-O endereço da versão publicada será incluído após o deploy.
+[https://eplay-pi.vercel.app](https://eplay-pi.vercel.app)
